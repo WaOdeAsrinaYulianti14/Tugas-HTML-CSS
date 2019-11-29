@@ -1,0 +1,73 @@
+.navbar{
+    width : 100%;
+    background-color: rgb(255, 0, 119);
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: solid 2px aliceblue;
+    background-color: rgb(255, 0, 119);
+}
+span{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(background/Ģoals.jpeg);
+}
+.nav-body{
+    width : 80%;
+    margin : auto;
+}
+.nav-body ul {
+    margin: 0;
+    padding: 0;
+    float: right;    
+}
+.nav-body li {
+    display: inline;
+    padding: 5px;
+    float: right;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 60px;
+    cursor: pointer;
+    color: rgb(255, 0, 119);
+}
+h2{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: rgb(255, 0, 119);
+    font-size: 30px;
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    background:rgb(255, 0, 119);
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+h3:hover{
+    background: turquoise;
+}
+
